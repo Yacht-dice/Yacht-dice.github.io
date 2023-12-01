@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.791ea523.css",
-    "main.js": "/static/js/main.1e3b3fd1.js",
+    "main.js": "/static/js/main.84627dfa.js",
     "static/media/Spinner.gif": "/static/media/Spinner.326d06c70e829aafab57.gif",
     "static/media/Char2.png": "/static/media/Char2.36233b99bfca82d8af88.png",
     "static/media/Char3.png": "/static/media/Char3.ae5a653417803cddb41c.png",
@@ -11,13 +11,13 @@
     "static/media/Dice3.svg": "/static/media/Dice3.75eba18e0051b17a264a7d4826e54e16.svg",
     "static/media/Dice2.svg": "/static/media/Dice2.cb5935895705fd8eac4e1b030380759e.svg",
     "static/media/Dice1.svg": "/static/media/Dice1.1434b510d1ca741bb77125e9d13bb989.svg",
-    "static/media/Timer.svg": "/static/media/Timer.0c7f730539e7473e9380c6182ca3d085.svg",
     "index.html": "/index.html",
+    "static/media/Timer.svg": "/static/media/Timer.0c7f730539e7473e9380c6182ca3d085.svg",
     "main.791ea523.css.map": "/static/css/main.791ea523.css.map",
-    "main.1e3b3fd1.js.map": "/static/js/main.1e3b3fd1.js.map"
+    "main.84627dfa.js.map": "/static/js/main.84627dfa.js.map"
   },
   "entrypoints": [
     "static/css/main.791ea523.css",
-    "static/js/main.1e3b3fd1.js"
+    "static/js/main.84627dfa.js"
   ]
 }
